@@ -1,6 +1,5 @@
 # fb-bot
-
-# igprem 
+ 
 # INSTALL
 
 ```
